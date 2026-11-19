@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tadi 👋</h1>
-<h3 align="center">Front-End Developer | React · TypeScript · Tailwind CSS</h3>
+<h3 align="center">Software Developer | Full-Stack & Backend Developmen</h3>
 
 <p align="center">
   Building modern, responsive web applications. Open to remote opportunities.
